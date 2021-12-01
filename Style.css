@@ -1,0 +1,37 @@
+h1{
+}
+body{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    position: absolute;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 50%;
+
+
+}
+div.new{
+    background-color:gainsboro;
+    color:black;
+    margin-bottom:10px;
+    height: 100px;
+    overflow:auto;
+
+}
+input{
+    border:solid 0.5px #2222AA;
+    margin-bottom:10px;
+    padding:16px;
+    outline:none;
+    border-radius:6px;
+}
+
+.erreur{
+    color:#CC0000;
+    margin-bottom:10px;
+}
+.subm{
+    width :100% ;
+    background-color: darkorange;
+}
